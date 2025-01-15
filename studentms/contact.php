@@ -67,13 +67,13 @@ include('includes/dbconnection.php');
             <div class="col-md-4 contact-grid-middle">
                 <h3>Phones :</h3>
                 <p>
-                    15527343
+                    086420410
                 </p>
             </div>
             <div class="col-md-4 contact-grid-right">
                 <h3>E-mail :</h3>
                 <p>
-                    dev@gmail.com
+                    strongmandom@gmail.com
                 </p>
             </div>
         </div>
